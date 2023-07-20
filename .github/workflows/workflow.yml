@@ -10,7 +10,3 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container: python:3.9-slim
-
-
-git config --global user.email "soufiane.boutahlil@outlook.com"
-git config --global user.name "boutahlilsoufiane"
